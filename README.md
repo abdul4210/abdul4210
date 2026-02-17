@@ -2,7 +2,7 @@
 
 <h2> Honeypot SOC Lab:</h2>
 
-  - [Home Lab With Bulk User Creation](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Honeypot SOC Lab](https://github.com/abdul4210/Honeypot-SOC-Lab/tree/main)
 
 <h3> Vulnerability Management Lab with Tenable:</h3>
 
