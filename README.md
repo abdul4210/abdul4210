@@ -4,6 +4,8 @@
 
   - [Honeypot SOC Lab](https://github.com/abdul4210/Honeypot-SOC-Lab/tree/main)
 
-<h2> Vulnerability Management Lab with Tenable:</h2>
+<h2> Vulnerability Management:</h2>
+
+ - [Vulnerability Program Implementation](https://github.com/abdul4210/Vulnerability-Management-Program)
 
   - [Vulnerability Management Lab with Tenable](https://github.com/abdul4210/Vulnerability-Management-Lab-with-Tenable)
